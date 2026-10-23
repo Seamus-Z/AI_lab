@@ -1,0 +1,3 @@
+[submodule "AI4PCB"]
+	path = AI4PCB
+	url = git@github.com:Seamus-Z/AI4PCB.git
